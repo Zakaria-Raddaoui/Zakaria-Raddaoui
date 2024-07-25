@@ -1,5 +1,5 @@
-### Hello there 👋, I'm Zakariya Raddaoui
-# A dedicated Web Developer based in Tunisia
+###                                                  Hello there 👋, I'm Zakariya Raddaoui
+#                                                  A dedicated Web Developer based in Tunisia
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zakaria-Raddaoui)](https://github.com/ryo-ma/github-profile-trophy)
 
