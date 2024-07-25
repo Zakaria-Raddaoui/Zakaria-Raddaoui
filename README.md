@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/zakariya-raddaoui-b99b33291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariya-raddaoui-b99b33291/" height="30" width="40" /></a>
 <a href="https://fb.com/100006442156745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006442156745" height="30" width="40" /></a>
 <a href="https://instagram.com/zakariya1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakariya1_" height="30" width="40" /></a>
+<a href="[https://instagram.com/zakariya1_](https://www.upwork.com/freelancers/~010ce64d602b1dd589)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="zakariya1_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
