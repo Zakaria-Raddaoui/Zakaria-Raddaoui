@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my Personal Portfolio Website. 
 - 🌱 I’m currently learning Laravel 
 - 💬 Ask me about anything. 
-- ⚡ Fun fact: I love playing video games. 
+- ⚡ Fun fact: I love playing video games.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zakaria-Raddaoui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zakariya-raddaoui-b99b33291//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100006442156745)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~010ce64d602b1dd589)  
 
