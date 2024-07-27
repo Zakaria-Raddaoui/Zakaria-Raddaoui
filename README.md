@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaria-raddaoui" alt="zakaria-raddaoui" /></a> </p>
 
-- 🔭 I’m currently working on **my Personal Portfolio Website.**
+- 🔭 I’m currently working on **Netflix Clone Project.**
 
 - 🌱 I’m currently learning **NodeJs/ExpressJs.**
 
