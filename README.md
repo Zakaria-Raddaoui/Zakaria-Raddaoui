@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Zakaria Raddaoui</h1>
-<h3 align="center">A passionate and dedicated frontend developer based in Tunisia.</h3>
+<h3 align="center">A passionate and dedicated full stack developer based in Tunisia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-raddaoui&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-raddaoui" /> </p>
 
