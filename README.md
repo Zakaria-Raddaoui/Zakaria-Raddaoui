@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Zakaria Raddaoui</h1>
 <h3 align="center">A passionate and dedicated full stack developer based in Tunisia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-raddaoui&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-raddaoui" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaria-raddaoui" alt="zakaria-raddaoui" /></a> </p>
 
 - 🔭 I’m currently working on an **Developer Learning Tracker app.**
