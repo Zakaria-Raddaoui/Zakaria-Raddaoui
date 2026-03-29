@@ -28,7 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-raddaoui&show_icons=true&locale=en&layout=compact" alt="zakaria-raddaoui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-raddaoui&show_icons=true&locale=en" alt="zakaria-raddaoui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-raddaoui&" alt="zakaria-raddaoui" /></p>
 
