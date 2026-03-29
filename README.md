@@ -1,9 +1,11 @@
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Amir Souaf Banner" width="1000"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Zakariya Raddaoui</h1>
 <h3 align="center">A passionate full-stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-raddaoui&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-raddaoui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaria-raddaoui" alt="zakaria-raddaoui" /></a> </p>
 
 - 🔭 I’m currently working on **Developer Learning Track.**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **raddaouizakariya@gmail.com**
 
-- 📄 Know about my experiences [https://zakariya-raddaoui.vercel.app/](https://zakariya-raddaoui.vercel.app/)
+- 📄 Know about my experiences [Portfolio.](https://zakariya-raddaoui.vercel.app/)
 
 - ⚡ Fun fact **i love playing videos games.**
 
