@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Portfolio.](https://zakariya-raddaoui.vercel.app/)
 
-- ⚡ Fun fact **i love playing videos games.**
+- ⚡ Fun fact **i love playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
